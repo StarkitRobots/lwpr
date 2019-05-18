@@ -1,6 +1,6 @@
 {
-    "name": "rhobandeps/lwpr",
-    "deps": ["rhobandeps/eigen"],
+    "name": "StarkitRobots/lwpr",
+    "deps": ["rStarkitRobots/eigen"],
     "includes": ["include"],
     "links": "build/liblwpr.so",
     "build": [
